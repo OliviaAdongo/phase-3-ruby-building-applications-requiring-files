@@ -1,4 +1,5 @@
 # Something is missing here
+require 'spec_helper'
 
 class Garden
   attr_accessor :name
